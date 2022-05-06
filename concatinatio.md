@@ -1,4 +1,5 @@
-// Amazing Program.
+// Amazing Program..
+
 
 	#include<iostream>	
 	#include<stdlib.h>
